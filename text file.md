@@ -1,4 +1,0 @@
-```
-#varshitha
-#mean stack
-```
